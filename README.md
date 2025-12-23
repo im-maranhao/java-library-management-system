@@ -1,4 +1,3 @@
-# Sistema_Gerenciamento-_de_Biblioteca
+# Library Management System
 
-Objetivo do teste:
-Desenvolver um sistema simples de gerenciamento de biblioteca que permita adicionar, remover e listar livros, além de gerenciar empréstimos de livros.
+Sistema desenvolvido para gerenciamento de biblioteca, permitindo o controle de livros, usuários e empréstimos de forma organizada.
